@@ -6,7 +6,7 @@ import Base.Variables;
 
 public class OrangeMyInfo extends Variables {
 	
-	// Constructor to initialize initElements
+	// Constructors to initialize initElements
 	
 	public OrangeMyInfo()
 	{

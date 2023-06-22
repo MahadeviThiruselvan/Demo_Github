@@ -19,7 +19,7 @@ public class TC5_Login_Logout extends Config {
 		 * StackTraceElement stackTraceElements[] = (new Throwable()).getStackTrace();
 		 * System.out.println("*************Current Method - " +
 		 * stackTraceElements[0].getMethodName()+" *************");
-		 */
+		 *****************/
 
 		Commonmethods.loginsuccess(); // Login using the method
 		Commonmethods.logout(); // Logout using the method
