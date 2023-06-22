@@ -65,6 +65,7 @@ public class TC6_Check_Leavepage_options extends Config {
 	@Test(dependsOnMethods = "EntitlementsTabCheck")	// Ensure Entitlement is available to check options under it
 	public void MyEntitlementsTabCheck() {
 		OrangeLeave.MyEntitlementsClick();
+// testing the things
 	}
 
 	@Test
