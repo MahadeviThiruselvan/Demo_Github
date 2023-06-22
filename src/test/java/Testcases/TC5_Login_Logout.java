@@ -15,11 +15,11 @@ public class TC5_Login_Logout extends Config {
 	@Test
 	public void Login_Logout() throws Exception {
 		// get the method name
-		/*
+		/**********************************************************
 		 * StackTraceElement stackTraceElements[] = (new Throwable()).getStackTrace();
 		 * System.out.println("*************Current Method - " +
 		 * stackTraceElements[0].getMethodName()+" *************");
-		 */
+		 *****************/
 
 		Commonmethods.loginsuccess(); // Login using the method
 		Commonmethods.logout(); // Logout using the method

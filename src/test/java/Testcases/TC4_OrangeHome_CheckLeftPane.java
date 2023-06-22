@@ -20,7 +20,7 @@ public class TC4_OrangeHome_CheckLeftPane extends Config {
 	@Test(retryAnalyzer = RetryAnalyser.class, enabled = true) // Retry when the test case fails = Retry Analyzer
 	public void Admincheck() {
 		// get the method name
-		/*
+		/***************
 		 * StackTraceElement stackTraceElements[] = (new Throwable()).getStackTrace();
 		 * System.out.println("*************Current Method - " +
 		 * stackTraceElements[0].getMethodName()+" *************");
