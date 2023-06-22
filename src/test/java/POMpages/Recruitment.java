@@ -8,6 +8,7 @@ import Base.Variables;
 public class Recruitment extends Variables{
 	
 	// Constructor to initialize initElements
+	// Check this
 	
 	public Recruitment()
 	{
