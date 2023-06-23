@@ -35,6 +35,7 @@
 		<classes>
 			<class name="Testcases.TC6_Check_Leavepage_options" />
 		</classes>
+		
 	</test> <!-- Test -->
 
 </suite> <!-- Suite -->
